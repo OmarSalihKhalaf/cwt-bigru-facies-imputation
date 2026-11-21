@@ -1,0 +1,26 @@
+{
+ "random_split": [
+  1.0,
+  0.944,
+  1.0,
+  0.944,
+  0.944
+ ],
+ "depth_block_split": [
+  0.471,
+  0.0,
+  0.353,
+  0.0,
+  0.176
+ ],
+ "n_test_random": 18,
+ "n_test_block": 17,
+ "windows": 87,
+ "classes_present": [
+  "F1",
+  "F10",
+  "F5",
+  "F8",
+  "F9"
+ ]
+}
